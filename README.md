@@ -1,4 +1,4 @@
-# 3. Sistema de biblioteca digital**
+# 3. **Sistema de biblioteca digital**
 
 Crea un sistema de gestión de libros utilizando objetos y JSON. El sistema debe permitir registrar libros, usuarios y préstamos.
 
